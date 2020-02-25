@@ -1,0 +1,6 @@
+﻿  snake.cpp
+E:\applications\cplus\repos\snake00\snake00\snake.cpp(61,16): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\applications\cplus\repos\snake00\snake00\snake.cpp(323,14): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\applications\cplus\repos\snake00\snake00\snake.cpp(324,14): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\applications\cplus\repos\snake00\snake00\snake.cpp(573,12): warning C4244:  “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  snake00.vcxproj -> E:\applications\cplus\repos\snake00\Debug\snake00.exe
